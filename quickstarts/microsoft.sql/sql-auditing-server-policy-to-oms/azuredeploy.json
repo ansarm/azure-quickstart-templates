@@ -54,7 +54,7 @@
     },
     "isMSDevOpsAuditEnabled": {
       "type": "bool",
-      "defaultValue": false,
+      "defaultValue": true,
       "metadata": {
           "description": "Enable Auditing of Microsoft support operations (DevOps)"
       }
