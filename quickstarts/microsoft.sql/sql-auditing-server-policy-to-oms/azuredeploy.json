@@ -141,7 +141,7 @@
           ],
           "properties": {
             "State": "Enabled",
-            "isAzureMonitorTargetEnabled": true
+            "isAzureMonitorTargetEnabled": false
           }
         },
         {          
