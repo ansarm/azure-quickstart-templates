@@ -17,6 +17,7 @@
     },
     "sqlAdministratorLogin": {
       "type": "string",
+      "defaultValue": "sysop",
       "metadata": {
         "description": "The administrator username of the SQL Server."
       }
